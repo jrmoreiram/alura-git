@@ -1,2 +1,2 @@
 # alura-git
-Alura Curso Git e GitHub
+Alura Curso Git e GitHub.

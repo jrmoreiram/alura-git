@@ -1,5 +1,5 @@
 # alura-git
-Curso Git e Github: Controle e compartilhe seu código
+Curso Git e Github: Controle e compartilhe seu código.
 
 # Temas abordados durante o curso:
 - O que é Git e Github?

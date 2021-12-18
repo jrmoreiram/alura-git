@@ -14,7 +14,7 @@
 - Gerando entregas
 
 ### Aulas:
-- O que é Git? Ver primeiro vídeo
+- O que é Git?
 - Iniciando os trabalhos
 - Compartilhando o trabalho
 - Trabalhando em equipe

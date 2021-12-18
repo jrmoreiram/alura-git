@@ -1,5 +1,4 @@
-# alura-git
-Curso Git e Github: Controle e compartilhe seu código.
+# Curso Git e Github: Controle e compartilhe seu código.
 
 # Temas abordados durante o curso:
 - O que é Git e Github?
@@ -8,6 +7,14 @@ Curso Git e Github: Controle e compartilhe seu código.
 - Resolva merges e conflitos
 - Trabalhe com diferentes branches
 - O que é Git? 
+- Iniciando os trabalhos
+- Compartilhando o trabalho
+- Trabalhando em equipe
+- Manipulando as versões
+- Gerando entregas
+
+### Aulas
+- O que é Git? Ver primeiro vídeo
 - Iniciando os trabalhos
 - Compartilhando o trabalho
 - Trabalhando em equipe

@@ -1,6 +1,6 @@
 # Curso Git e Github: Controle e compartilhe seu código.
 
-# Temas abordados durante o curso:
+### Temas abordados durante o curso:
 - O que é Git e Github?
 - Entenda um sistema de controle de versão
 - Salve e recupere seu código em diferentes versões
@@ -13,7 +13,7 @@
 - Manipulando as versões
 - Gerando entregas
 
-### Aulas
+### Aulas:
 - O que é Git? Ver primeiro vídeo
 - Iniciando os trabalhos
 - Compartilhando o trabalho
